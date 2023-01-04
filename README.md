@@ -1,4 +1,4 @@
-# analista.de.dados_case
+# CASE_ANALISE_DADOS
 
 Case Analista de dados Jr - dataset eCommerce 
 
